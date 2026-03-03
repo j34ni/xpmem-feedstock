@@ -43,7 +43,7 @@ about:
   license: LGPL-2.1-only
   license_file: COPYING
   summary: >-
-    XPMEM userspace library (libxpmem) enables UCX zero-copy intra-node shared memory transport
+    XPMEM userspace library (libxpmem) enables UCX zero-copy intra-node shared memory transport.
   description: |
     XPMEM (Cross-Process Memory) is a Linux kernel module that allows a process to map the memory of another process directly into its virtual address space, without an extra copy. This enables true zero-copy intra-node MPI communication.
 
